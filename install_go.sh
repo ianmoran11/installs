@@ -1,4 +1,4 @@
-sudo apt install golang-go
-sudo apt install gccgo-go 
+sudo apt install -y  golang-go
+sudo apt install -y  gccgo-go 
 
 
