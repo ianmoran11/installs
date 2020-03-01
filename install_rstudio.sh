@@ -18,4 +18,3 @@ sudo apt-mark hold libgstreamer0.10
 wget --tries=3 --timeout=120 https://download1.rstudio.org/rstudio-xenial-1.1.456-amd64.deb
 sudo apt-get install libjpeg62
 sudo dpkg -i rstudio-*-amd64.deb
-
